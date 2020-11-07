@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SDA Pin=U1-36
+Removed Pin From Net: NetName=SCL Pin=U1-37
+Removed Pin From Net: NetName=SDA Pin=U1-50
+Removed Pin From Net: NetName=SCL Pin=U1-52
+Added Pin To Net: NetName=SDA Pin=U1-85
+Added Pin To Net: NetName=SCL Pin=U1-86
+Added Pin To Net: NetName=SDA Pin=U1-95
+Added Pin To Net: NetName=SCL Pin=U1-96
+Added Member To Class: ClassName=U_XC95144XL Member=Component U1 XC95144XL-10TQG100C
+Added Room: Name=U_200PinConnector
+Added Room: Name=U_CMPower
+Added Room: Name=U_XC95144XL

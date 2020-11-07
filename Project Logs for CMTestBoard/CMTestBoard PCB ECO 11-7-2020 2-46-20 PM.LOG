@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=3.3V Pin=U1-5
+Removed Pin From Net: NetName=SDA Pin=U1-6
+Added Pin To Net: NetName=3.3V Pin=U1-5
+Added Pin To Net: NetName=XC_TMS Pin=U1-5
+Added Member To Class: ClassName=U_XC95144XL Member=Component U1 XC95144XL-10TQG100C
+Added Room: Name=U_200PinConnector
+Added Room: Name=U_CMPower
+Added Room: Name=U_XC95144XL
