@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=TMS Pin=U8-4
+Removed Pin From Net: NetName=TDO Pin=U8-5
+Removed Member From Class: ClassName=U_XC95144XL Member=U5
+Removed Member From Class: ClassName=U_XC95144XL Member=U6
+Added Pin To Net: NetName=TDO Pin=U8-4
+Added Pin To Net: NetName=TMS Pin=U8-5
+Added Member To Class: ClassName=U_XC95144XL Member=Component U3 SMF05CT1G
+Added Member To Class: ClassName=U_XC95144XL Member=Component U4 SMF05CT1G
+Added Room: Name=U_200PinConnector
+Added Room: Name=U_CMPower
+Added Room: Name=U_Peripherals
+Added Room: Name=U_XC95144XL
