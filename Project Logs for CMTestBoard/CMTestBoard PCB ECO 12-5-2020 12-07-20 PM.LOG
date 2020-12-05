@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=HDMIR1 NewDesignator=R23
+Added Room: Name=U_200PinConnector
+Added Room: Name=U_CMPower
+Added Room: Name=U_Peripherals
+Added Room: Name=U_XC95144XL

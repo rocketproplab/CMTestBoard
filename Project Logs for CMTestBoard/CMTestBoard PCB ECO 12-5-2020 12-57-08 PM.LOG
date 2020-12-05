@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=LED1 Pin=U1-67
+Removed Pin From Net: NetName=LED2 Pin=U1-70
+Removed Pin From Net: NetName=LED3 Pin=U1-73
+Added Pin To Net: NetName=LED1 Pin=U1-65
+Added Pin To Net: NetName=LED2 Pin=U1-68
+Added Pin To Net: NetName=LED3 Pin=U1-71
+Added Pin To Net: NetName=TC4_GPIO26 Pin=U1-72
+Added Pin To Net: NetName=TC3_GPIO24 Pin=U1-73
+Added Pin To Net: NetName=TC2_GPIO19 Pin=U1-81
+Added Pin To Net: NetName=TC1_GPIO18 Pin=U1-82
+Change Net Name : Old Net Name=TC1_GPIO18 New Net Name=TC1
+Change Net Name : Old Net Name=TC2_GPIO19 New Net Name=TC2
+Change Net Name : Old Net Name=TC3_GPIO24 New Net Name=TC3
+Change Net Name : Old Net Name=TC4_GPIO26 New Net Name=TC4
+Added Class: Name=TC[1..4]
+Added Room: Name=U_200PinConnector
+Added Room: Name=U_CMPower
+Added Room: Name=U_Peripherals
+Added Room: Name=U_XC95144XL

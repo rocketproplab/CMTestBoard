@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=UBRQ5 NewDesignator=Q3
+Change Component Designator: OldDesignator=USBBOOTQ1 NewDesignator=Q1
+Change Component Designator: OldDesignator=USBBOOTQ2 NewDesignator=Q2
+Change Net Name : Old Net Name=NetUSB2_2 New Net Name=NetQ1_1
+Added Room: Name=U_200PinConnector
+Added Room: Name=U_CMPower
+Added Room: Name=U_Peripherals
+Added Room: Name=U_XC95144XL
