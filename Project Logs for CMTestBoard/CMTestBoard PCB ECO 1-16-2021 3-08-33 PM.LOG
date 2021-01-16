@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=RUN Pin=J1-177
+Added Pin To Net: NetName=RUN Pin=JTAG-1
+Added Net: Name=RUN
+Added Room: Name=U_200PinConnector
+Added Room: Name=U_CMPower
+Added Room: Name=U_Peripherals
+Added Room: Name=U_XC95144XL
