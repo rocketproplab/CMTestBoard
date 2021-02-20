@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=3.3V Pin=R11-2
+Added Pin To Net: NetName=3.3V Pin=R19-2
+Added Pin To Net: NetName=3.3V Pin=TP7-1
+Added Room: Name=U_200PinConnector
+Added Room: Name=U_CMPower
+Added Room: Name=U_Peripherals
+Added Room: Name=U_XC95144XL
