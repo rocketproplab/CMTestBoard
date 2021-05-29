@@ -1,0 +1,6 @@
+Added Component: Designator=C27(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=3.3V Pin=C27-2
+Added Member To Class: ClassName=U_EPM240T100C5N Member=Component C27 CL05B104KO5NNNC

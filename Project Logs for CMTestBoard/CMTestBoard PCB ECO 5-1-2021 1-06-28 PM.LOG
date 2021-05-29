@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=SDA Pin=U1-99
+Added Pin To Net: NetName=SCL Pin=U1-100
+Added Member To Class: ClassName=U_STM32F4 Member=Component P? 95278-101A06LF

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=TOG10 Pin=U1-27
+Added Pin To Net: NetName=TOG9 Pin=U1-28
+Added Pin To Net: NetName=TOG8 Pin=U1-29
+Added Member To Class: ClassName=U_STM32F4 Member=Component P? 95278-101A06LF

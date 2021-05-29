@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GP8 Pin=U1-96
+Added Pin To Net: NetName=SCLK2 Pin=U1-97
+Added Pin To Net: NetName=MOSI2 Pin=U1-98
+Added Pin To Net: NetName=MISO2 Pin=U1-99
+Added Pin To Net: NetName=CS2 Pin=U1-100
