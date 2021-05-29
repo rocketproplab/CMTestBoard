@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=MISO Pin=U1-81
-Removed Pin From Net: NetName=CS Pin=U1-82
-Added Pin To Net: NetName=MISO Pin=U1-85
-Added Pin To Net: NetName=CS Pin=U1-86
-Added Room: Name=U_200PinConnector
-Added Room: Name=U_CMPower
-Added Room: Name=U_Peripherals
-Added Room: Name=U_XC95144XL

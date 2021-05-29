@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=SCLK2 Pin=U3-1
-Removed Pin From Net: NetName=MOSI2 Pin=U3-3
-Added Pin To Net: NetName=MOSI2 Pin=U3-1
-Added Pin To Net: NetName=SCLK2 Pin=U3-3
-Added Room: Name=U_200PinConnector
-Added Room: Name=U_CMPower
-Added Room: Name=U_Peripherals
-Added Room: Name=U_XC95144XL

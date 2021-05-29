@@ -1,9 +1,0 @@
-Removed Member From Class: ClassName=U_200PinConnector Member=DS7
-Added Pin To Net: NetName=TC5 Pin=U1-7
-Change Class Name : Old Net Name=TC[1..4] New Net Name=TC[1..5]
-Added Member To Class: ClassName=U_200PinConnector Member=Component DS4 LTST-C190KFKT
-Added Member To Class: ClassName=TC[1..5] Member=Element[4]: TC
-Added Room: Name=U_200PinConnector
-Added Room: Name=U_CMPower
-Added Room: Name=U_Peripherals
-Added Room: Name=U_XC95144XL

@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=DS3-1
-Removed Pin From Net: NetName=3.3V Pin=R10-2
-Removed Member From Class: ClassName=U_CMPower Member=DS3
-Removed Member From Class: ClassName=U_CMPower Member=R10
-Added Room: Name=U_200PinConnector
-Added Room: Name=U_CMPower
-Added Room: Name=U_XC95144XL

@@ -1,7 +1,0 @@
-Change Component Designator: OldDesignator=HDMIQ1 NewDesignator=Q5
-Change Component Designator: OldDesignator=HDMIQ2 NewDesignator=HDMIQ4
-Added Member To Class: ClassName=U_Peripherals Member=Component R17 47K
-Added Room: Name=U_200PinConnector
-Added Room: Name=U_CMPower
-Added Room: Name=U_Peripherals
-Added Room: Name=U_XC95144XL

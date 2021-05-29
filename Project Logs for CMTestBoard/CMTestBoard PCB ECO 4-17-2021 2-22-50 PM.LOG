@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=XC_TDO Pin=U2-3
-Removed Pin From Net: NetName=XC_TMS Pin=U2-5
-Added Pin To Net: NetName=XC_TMS Pin=U2-3
-Added Pin To Net: NetName=XC_TDO Pin=U2-5

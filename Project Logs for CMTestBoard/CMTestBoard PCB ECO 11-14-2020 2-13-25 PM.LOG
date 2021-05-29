@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=SDA Pin=U1-95
-Removed Pin From Net: NetName=SCL Pin=U1-96
-Added Pin To Net: NetName=SDA Pin=U1-16
-Added Pin To Net: NetName=SCL Pin=U1-17
-Added Room: Name=U_200PinConnector
-Added Room: Name=U_CMPower
-Added Room: Name=U_XC95144XL
