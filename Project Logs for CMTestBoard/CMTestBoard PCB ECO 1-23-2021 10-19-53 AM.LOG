@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=TMS Pin=U8-5
-Removed Pin From Net: NetName=TCK Pin=U8-6
-Added Pin To Net: NetName=TCK Pin=U8-5
-Added Pin To Net: NetName=TMS Pin=U8-6
-Added Room: Name=U_200PinConnector
-Added Room: Name=U_CMPower
-Added Room: Name=U_Peripherals
-Added Room: Name=U_XC95144XL

@@ -1,7 +1,0 @@
-Change Component Comment : Designator=X1 Old Comment=7W-50.000MBA-T New Comment=OCETDLJTNF-50MHZ
-Change Component Description : Designator=X1 Old Description=OSC, 50.000 MHZ, ± 25 ppm, 3.3 V, SMT New Description=OSC, 50.000 MHZ, ± 25 ppm, 3.3 V, SMT
-OCETDLJTNF-50MHZ
-Added Room: Name=U_200PinConnector
-Added Room: Name=U_CMPower
-Added Room: Name=U_Peripherals
-Added Room: Name=U_XC95144XL

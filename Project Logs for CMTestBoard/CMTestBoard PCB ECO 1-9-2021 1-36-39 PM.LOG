@@ -1,6 +1,0 @@
-Added Pin To Net: NetName=HDMI_HPD_N_1V8 Pin=Q5-3
-Added Pin To Net: NetName=HDMI_HPD_N_1V8 Pin=R23-1
-Added Room: Name=U_200PinConnector
-Added Room: Name=U_CMPower
-Added Room: Name=U_Peripherals
-Added Room: Name=U_XC95144XL

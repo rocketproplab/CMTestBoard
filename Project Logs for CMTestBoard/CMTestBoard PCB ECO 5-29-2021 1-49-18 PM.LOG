@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=JTAG-MP1
-Removed Pin From Net: NetName=GND Pin=JTAG-MP2
-Added Pin To Net: NetName=CHGND Pin=JTAG-MP1
-Added Pin To Net: NetName=CHGND Pin=JTAG-MP2
