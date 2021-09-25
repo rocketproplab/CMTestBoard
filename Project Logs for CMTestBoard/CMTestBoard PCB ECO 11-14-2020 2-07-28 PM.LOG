@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=TOG8 Pin=U1-18
+Removed Pin From Net: NetName=TOG9 Pin=U1-19
+Removed Pin From Net: NetName=TOG10 Pin=U1-20
+Added Pin To Net: NetName=TOG8 Pin=U1-76
+Added Pin To Net: NetName=TOG9 Pin=U1-77
+Added Pin To Net: NetName=TOG10 Pin=U1-78
+Added Room: Name=U_200PinConnector
+Added Room: Name=U_CMPower
+Added Room: Name=U_XC95144XL

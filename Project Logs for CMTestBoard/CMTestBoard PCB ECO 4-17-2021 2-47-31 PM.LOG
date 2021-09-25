@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=TOG8 Pin=U1-52
+Added Pin To Net: NetName=TOG9 Pin=U1-53
+Added Pin To Net: NetName=TOG10 Pin=U1-54
+Added Pin To Net: NetName=COMMS_EN Pin=U1-66
+Added Pin To Net: NetName=GPS_EN Pin=U1-67
+Added Pin To Net: NetName=GPS_RX_3.3 Pin=U1-68
+Added Pin To Net: NetName=GPS_TX_3.3 Pin=U1-69
+Added Pin To Net: NetName=SARA_EN Pin=U1-70
+Added Pin To Net: NetName=ADC_EN Pin=U1-71

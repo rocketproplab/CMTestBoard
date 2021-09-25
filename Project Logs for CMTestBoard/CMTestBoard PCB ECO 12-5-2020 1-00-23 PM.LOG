@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=CLC1 NewDesignator=C32
+Change Component Designator: OldDesignator=CLC2 NewDesignator=C33
+Added Room: Name=U_200PinConnector
+Added Room: Name=U_CMPower
+Added Room: Name=U_Peripherals
+Added Room: Name=U_XC95144XL

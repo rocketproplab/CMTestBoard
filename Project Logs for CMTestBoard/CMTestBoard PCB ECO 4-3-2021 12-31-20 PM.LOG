@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=U_200PinConnector Member=TP2
+Removed Member From Class: ClassName=U_CMPower Member=TP7
+Added Member To Class: ClassName=U_CMPower Member=Component TP3 5004
+Added Member To Class: ClassName=U_200PinConnector Member=Component TP8 5004

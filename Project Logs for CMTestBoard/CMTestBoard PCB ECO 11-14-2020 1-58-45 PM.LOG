@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=SDA Pin=U1-7
+Removed Pin From Net: NetName=SCL Pin=U1-8
+Removed Pin From Net: NetName=SDA Pin=U1-16
+Removed Pin From Net: NetName=SCL Pin=U1-17
+Removed Pin From Net: NetName=SDA Pin=U1-24
+Removed Pin From Net: NetName=SCL Pin=U1-25
+Removed Pin From Net: NetName=SDA Pin=U1-85
+Removed Pin From Net: NetName=SCL Pin=U1-86
+Added Component: Designator=C23(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=SJ1(RESC1609X55X30ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW06030000Z0EA"; VariantName = "[No Variations]"
+Added Component: Designator=X1(TXC-L500W700H130-4_V)
+Add component (AddParameter): Name = "Body Shape"; Value = "Rectangular, 4 SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.txccrystal.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.txccrystal.com/images/pdf/7w-tight.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "± 25 ppm(-10 to +70 degC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40 to 85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "4-Pin SMT LED, 7 x 5 mm Body"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "L500W700H130-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "7W-50.000MBA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise/Fall Time"; Value = "7 ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Temperature"; Value = "-50 to 125 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=3.3V Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=3.3V Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=3.3V Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=3.3V Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=3.3V Pin=C27-2
+Added Pin To Net: NetName=TOG1 Pin=U1-11
+Added Pin To Net: NetName=TOG2 Pin=U1-12
+Added Pin To Net: NetName=TOG3 Pin=U1-13
+Added Pin To Net: NetName=TOG4 Pin=U1-14
+Added Pin To Net: NetName=TOG5 Pin=U1-15
+Added Pin To Net: NetName=TOG6 Pin=U1-16
+Added Pin To Net: NetName=TOG7 Pin=U1-17
+Added Pin To Net: NetName=TOG8 Pin=U1-18
+Added Pin To Net: NetName=TOG9 Pin=U1-19
+Added Pin To Net: NetName=TOG10 Pin=U1-20
+Added Pin To Net: NetName=MISO Pin=U1-80
+Added Pin To Net: NetName=MOSI Pin=U1-81
+Added Pin To Net: NetName=SCLK Pin=U1-82
+Added Pin To Net: NetName=GPS_RX_3.3 Pin=U1-91
+Added Pin To Net: NetName=GPS_TX_3.3 Pin=U1-92
+Added Pin To Net: NetName=3.3V Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=3.3V Pin=X1-4
+Added Pin To Net: NetName=ADC_EN Pin=J1-47
+Added Pin To Net: NetName=ADC_EN Pin=U1-94
+Added Net: Name=ADC_EN
+Added Pin To Net: NetName=COMMS_EN Pin=J1-59
+Added Pin To Net: NetName=COMMS_EN Pin=U1-89
+Added Net: Name=COMMS_EN
+Added Pin To Net: NetName=CS Pin=J1-58
+Added Pin To Net: NetName=CS Pin=U1-79
+Added Net: Name=CS
+Added Pin To Net: NetName=GCK1 Pin=SJ1-2
+Added Pin To Net: NetName=GCK1 Pin=U1-22
+Added Net: Name=GCK1
+Added Pin To Net: NetName=GPS_EN Pin=J1-57
+Added Pin To Net: NetName=GPS_EN Pin=U1-90
+Added Net: Name=GPS_EN
+Added Pin To Net: NetName=NetSJ1_1 Pin=SJ1-1
+Added Pin To Net: NetName=NetSJ1_1 Pin=X1-3
+Added Net: Name=NetSJ1_1
+Added Pin To Net: NetName=SARA_EN Pin=J1-48
+Added Pin To Net: NetName=SARA_EN Pin=U1-93
+Added Net: Name=SARA_EN
+Added Class: Name=TOG[1..10]
+Added Member To Class: ClassName=U_XC95144XL Member=Component C23 0.1 uF 0402
+Added Member To Class: ClassName=U_XC95144XL Member=Component C24 0.1 uF 0402
+Added Member To Class: ClassName=U_XC95144XL Member=Component C25 0.1 uF 0402
+Added Member To Class: ClassName=U_XC95144XL Member=Component C26 0.1 uF 0402
+Added Member To Class: ClassName=U_XC95144XL Member=Component C27 0.1 uF 0402
+Added Member To Class: ClassName=U_XC95144XL Member=Component SJ1 0R 0603
+Added Member To Class: ClassName=U_XC95144XL Member=Component X1 7W-50.000MBA-T
+Added Room: Name=U_200PinConnector
+Added Room: Name=U_CMPower
+Added Room: Name=U_XC95144XL

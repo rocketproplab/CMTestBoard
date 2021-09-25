@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Added Room: Name=U_200PinConnector
+Added Room: Name=U_CMPower
+Added Room: Name=U_Peripherals
+Added Room: Name=U_XC95144XL

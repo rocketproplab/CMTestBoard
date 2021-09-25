@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=GND Pin=X?-2
+Added Pin To Net: NetName=GND Pin=X?-4
+Added Member To Class: ClassName=U_STM32F4 Member=Component P? 95278-101A06LF

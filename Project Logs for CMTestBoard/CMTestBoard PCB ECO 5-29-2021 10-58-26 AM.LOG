@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=J? NewDesignator=STLINK
+Change Component Designator: OldDesignator=P1 NewDesignator=STMBOOT
+Change Component Designator: OldDesignator=P2 NewDesignator=SPI

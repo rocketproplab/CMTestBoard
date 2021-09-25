@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=SARA_EN Pin=U1-56
+Added Pin To Net: NetName=ADC_EN Pin=U1-57
+Added Pin To Net: NetName=TC5 Pin=U1-63
+Added Pin To Net: NetName=TOG7 Pin=U1-64
+Added Pin To Net: NetName=TOG6 Pin=U1-65
+Added Pin To Net: NetName=TOG5 Pin=U1-66
+Added Pin To Net: NetName=TOG4 Pin=U1-67
+Added Pin To Net: NetName=TOG3 Pin=U1-68
+Added Pin To Net: NetName=TOG2 Pin=U1-69
+Added Pin To Net: NetName=TOG1 Pin=U1-70
+Added Member To Class: ClassName=U_STM32F4 Member=Component P? 95278-101A06LF

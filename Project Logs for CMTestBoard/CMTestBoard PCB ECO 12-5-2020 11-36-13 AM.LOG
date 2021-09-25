@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=U_Peripherals Member=USB2
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=UBR1 NewDesignator=R22
+Change Component Designator: OldDesignator=UBR2 NewDesignator=R21
+Change Component Designator: OldDesignator=USB2 NewDesignator=R17
+Change Component Designator: OldDesignator=USB3 NewDesignator=R18
+Change Component Designator: OldDesignator=USBC1 NewDesignator=C29
+Change Component Designator: OldDesignator=VBAC1 NewDesignator=C30
+Change Component Designator: OldDesignator=VBAC2 NewDesignator=C31
+Change Component Designator: OldDesignator=VBAR1 NewDesignator=R20
+Added Member To Class: ClassName=U_Peripherals Member=Component R19 0402
+Added Room: Name=U_200PinConnector
+Added Room: Name=U_CMPower
+Added Room: Name=U_Peripherals
+Added Room: Name=U_XC95144XL
