@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=CMTopLevel.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=CMTopLevel.SchDoc|Designator=U_200PinConnector|SchDesignator=U_200PinConnector|FileName=3_JetsonDRAMConnector.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=3_JetsonDRAMConnector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CMTopLevel.SchDoc|Designator=U_CMPower|SchDesignator=U_CMPower|FileName=1_CMPower.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=1_CMPower.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CMTopLevel.SchDoc|Designator=U_Peripherals|SchDesignator=U_Peripherals|FileName=4_PeripheralsV2.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=4_PeripheralsV2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CMTopLevel.SchDoc|Designator=U_STM32F4|SchDesignator=U_STM32F4|FileName=2_STM32F4.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=2_STM32F4.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=CMTopLevel.SchDoc|FileName=200PinConnector.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CMTopLevel.SchDoc|FileName=EPM240T100C5N.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CMTopLevel.SchDoc|FileName=XC95144XL.SchDoc|SheetNumber= 
