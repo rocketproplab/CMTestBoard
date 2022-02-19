@@ -511,6 +511,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for CMTestBoard\Design Rule Check - CMTestBoard.html
 DItemRevisionGUID=
 
+[GeneratedDocument7]
+DocumentPath=Project Outputs for CMTestBoard\Design Rule Check - CMTestBoardV2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -890,7 +894,7 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=Comment=True|Footprint=True
 Configuration1_Name5=SortOrder
