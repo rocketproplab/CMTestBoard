@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CMTestBoard.PrjPcb]
+   Generated File[CMTestBoard-RoundHoles.TXT]
+   Generated File[CMTestBoard-SlotHoles.TXT]
+   Generated File[CMTestBoard.LDP]
+   Generated File[CMTestBoard.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 3:50:01 PM On 10/2/2021
